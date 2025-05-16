@@ -26,7 +26,7 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 You guessed it! We put our money where our mouth is. This is what we accomplished so far.
 
-![slika of Work](https://media.discordapp.net/attachments/1273232964003827854/1339275165821046916/Screenshot_20250212_174019.png?ex=6828bc32&is=68276ab2&hm=f91334d8e96c4f45ea667afadd4561b0361d40ef67966dce65e9c822a7324780&=&format=webp&quality=lossless&width=1166&height=740) <!-- https://www.pexels.com/search/product%20testing/ -->
+![Image of Work](images/teaser.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Check out this sweet preview. Impressed much, are you?
 
