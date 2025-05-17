@@ -32,8 +32,7 @@ Bacite pogled na prototip našeg proizvoda. Veoma interesantno, zar ne?
 
 ---
 
-# Stay in touch
-
+<!-- # Stay in touch
 Da li vam se sviđa naša ideja? Veoma bi nam značila vaša povratna informacija. Slobodno nas kontaktirajte jer smo više nego otvoreni da vam pomognemo!
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}} -->
