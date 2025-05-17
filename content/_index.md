@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Zašto je ovo sjajno?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "https://hackaday.com/wp-content/uploads/2022/12/arduino-mp3-main.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # Budućnost zabave u kafićima - Danas!
@@ -16,11 +16,11 @@ Dozvolite gostima da upravljaju **atmosferom** vašeg lokala! Uz pomoć našeg r
 
 ---
 
-# Prototype
+# Prototip
 
 Bacite pogled na prototip našeg proizvoda. Veoma interesantno, zar ne?
 
-![Image of Work](images/teaser.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+![Image of Work](https://blog.arduino.cc/wp-content/uploads/2015/09/diyJukebox.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 ## Šta dobijate uz naš proizvod?
 
